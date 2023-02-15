@@ -1,0 +1,7 @@
+.new-expense{
+    width: 80%;
+    margin: 1rem auto;
+    background-color: #2a2a2a;
+    border-radius: 0.4rem;
+    color: white;
+}

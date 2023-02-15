@@ -1,0 +1,14 @@
+.expenses{
+
+    width: 80%;
+    margin: 1rem auto ;
+    padding: 1rem 2rem;
+    background-color: #2a2a2a;
+}
+
+
+.clearBtn{
+    border: 2px solid white;
+    position: relative;
+    left: 85.5%;
+}
